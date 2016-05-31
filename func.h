@@ -1,15 +1,8 @@
-/**
-*	@file func.h
-*	@brief This file will contain all necessary definitions and functions utilized.
-*	@author Sushmitha Rao
-*	@date 26/5/2016 
-*/
-
-int revSpiral(); // function declaration
+#include<stdio.h>
+#include <stdbool.h>
+bool match(char *first, char *second);
 
 
 
-
-
-
+void test(char *first, char *second);
 
